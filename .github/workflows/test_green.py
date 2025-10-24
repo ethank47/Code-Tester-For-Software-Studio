@@ -13,4 +13,6 @@ def check_if_item_in_stock(item):
   read(inventory.json)
   if count(item) > 0:
     assert(true)
+
+# DID NOT FINISH, GOT UP UNTIL HERE
   
